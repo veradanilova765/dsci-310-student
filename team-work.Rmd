@@ -48,9 +48,9 @@ What Group number are you in?
 
 | Group member name | Preparation rating |
 |-------------------|--------------------|
-|                   |                    |
-|                   |                    |
-|                   |                    |
+|    Jenna LeNoble  |        4           |
+|    Moira Renata   |        4           |
+|    Yuyang Wang    |        4           |
 
 ## 2. Participation & communication
 
@@ -61,9 +61,9 @@ What Group number are you in?
 
 | Group member name | Participation & communication rating |
 |-------------------|--------------------------------------|
-|                   |                                      |
-|                   |                                      |
-|                   |                                      |
+|    Jenna LeNoble  |        4                             |
+|    Moira Renata   |        4                             |
+|    Yuyang Wang    |        4                             |
 
 ## 3. Helps group excel
 
@@ -75,9 +75,9 @@ What Group number are you in?
 
 | Group member name | Helps group excel rating |
 |-------------------|--------------------------|
-|                   |                          |
-|                   |                          |
-|                   |                          |
+|    Jenna LeNoble  |        4                 |
+|    Moira Renata   |        4                 |
+|    Yuyang Wang    |        4                 |
 
 ## 4. Team player (cooperation)
 
@@ -89,10 +89,9 @@ What Group number are you in?
 
 | Group member name | Team player (cooperation) rating |
 |-------------------|----------------------------------|
-|                   |                                  |
-|                   |                                  |
-|                   |                                  |
-
+|    Jenna LeNoble  |        4                         |
+|    Moira Renata   |        4                         |
+|    Yuyang Wang    |        4                         |
 Below,
 briefly describe the specific contributions each team member
 made to your project (**including yourself**).
@@ -105,6 +104,11 @@ comment on the following areas:
       That is, what sort of things did you do to contribute to the evolution of the project?
     - What were the roles of others in your group?
 - What went well and poorly throughout the team project experience?
+
+The whole team worked very well together. I really enjoyed that everyone had a very open-mindest and was very supportive. It was nice to have all the members be ready to help out and give ideas when certain parts of the project had problems and issues. We had a lot of video calls to work on many of the components together via zoom, sharing screen so everyone contributed equally together to many the files such as the `README.Rmd`, `Dockerfile`, `Makefile`, and `bike_share_analysis.Rmd` which were mainly commited from Jenna's local computer. I specifically worked on the `CODE_OF_CONDUCT.md` for Milestone 1. For Milestone 2, we split our four functions and their respective tests among the four of us, I worked on `scatter_plot`, Jenna worked on the histogram function, Moira worked on the bar graph, and Yuyang did the `summarize_column` function. For Milestone 3, where we mainly broke down the different analysis components, I worked mainly on the `Makefile` and created a script for all of the figure and table components. However, we made the decision to organize out analysis differently so all the components of my `figures.R` file was distributed amongst `eda_plots.R`, `knn1_testing.R`, `knn2_testing.R, `lm1_testing.R`, lm2_testing.R`, and `lm_testing.R`. Yuyang contributed to the scripts involving cleaning, loading, and splitting. Jenna and Moira both worked on the training and testing analysis of the linear and knn models. We were going to push docopt introduction to later but Jenna really contributed to that as she figured out how to make the code work since we were having some problems - so we were able to include that into our Milestone 3 submission. For the final part of the project , I created the package on my local end end and pushed it with along with everyone's functions from Milestone 2. We equally filled out our own tests and the documentations and I added the code of conduct, contributions, and members files. We ended up adding all the additional functions for knn and linear regression models so our package and also Jenna altered the scatter_plot function to take into account the different kinds of regression - and I made changes to the tests. We made sure there is good coverage for all the tests. Then, before the final submission, we spent the entire day on zoom making sure everything was properly running and changing our group project to use the new package. 
+
+Personally, I made sure to be available and participate in all our video chats and closely monitor our group chat. Everyone was great about communicating their availability so the whole preparedness to help, participation and communication, teamwork, and solving problems together was on point. We were also very organized to keep each other updated about the different parts of the project. Creating issues and working on different branches was super helpful. The only thing that was not great is having a lot of our meetings at 9pm in the evenings because everyone has a lot of other commitments and that was usually the only time that everyone was available. But, regardless, it was a great team environment. 
+
 
 ## Submission instructions
 
