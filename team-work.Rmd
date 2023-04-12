@@ -3,8 +3,8 @@ title: "Team work"
 descriptions: |
     Team work reflection document - contributes to part of the individual team work grade.
 output:
-  distill::distill_article:
-    toc: true
+  bookdown::pdf_document:
+    default
 ---
 
 *You can acces an editable version of this file [here](https://github.com/UBC-DSCI/dsci-310-student/blob/main/team-work.Rmd).*
